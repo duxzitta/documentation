@@ -17,11 +17,11 @@ Define message flows in both and ISO and Open API networks and mappings between 
  
 Africa is a great continent with a multitude of Financial Service providers who focuses on region based financial inclusion and services provision. The continent boasts of a vast network of Payment service providers and financial institutions. Some of the most prominent networks are listed below:
 
--   InterSwitch ( Nigeria)
+-   Interswitch ( Nigeria)
 -   eProcess ( Ghana)
 -   Umoja Switch ( Tanzania)
 -   KenSwitch ( Kenya)
--   ZimSwitch ( ZImbabwe)
+-   ZimSwitch ( Zimbabwe)
 -   RSwitch ( Rwanda)
 
 Almost all of these networks make use of an ISO 8583 based Payments processing platform ( Postilion Switch) to drive ATM’s, POS & Mobile channels, process card based and non card based transactions for both acquiring and issuing verticals.
